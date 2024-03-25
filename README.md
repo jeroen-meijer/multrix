@@ -5,7 +5,7 @@
 ## Install
 
 ```bash
-$ npm install --global multrix
+$ npm start
 ```
 
 ## CLI
