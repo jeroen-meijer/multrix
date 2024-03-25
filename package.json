@@ -1,6 +1,6 @@
 {
 	"name": "multrix",
-	"description": "Run any commands in parallel excellent logging and error handling.",
+	"description": "Run any commands in parallel with excellent logging and error handling.",
 	"version": "0.0.0",
 	"license": "MIT",
 	"bin": "dist/main.js",
